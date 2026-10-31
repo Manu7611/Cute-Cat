@@ -1,6 +1,6 @@
 # Cute Cat
 A kawaii little cat on your desktop !
-![Cat Image](Capture d'écran_20261031_205352.png)
+![Cat Image](Image.png)
 
 ## About
 I made this little cat on godot with Stardance guide !
