@@ -13,3 +13,4 @@ I made this little cat on godot with Stardance guide !
 
 ## What you need ?
 - Godot 4 and compile !
+- Just use Exe file :)
